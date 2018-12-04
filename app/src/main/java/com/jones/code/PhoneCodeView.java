@@ -160,6 +160,9 @@ public class PhoneCodeView extends ConstraintLayout {
 
     }
 
+    /**
+     * 显示验证码
+     */
     private void showCode() {
         for (TextView tv : tvCodes) {
             tv.setText("");

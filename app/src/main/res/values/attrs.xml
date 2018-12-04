@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PhoneCodeView">
+        <attr name="code_count" format="integer" />
+        <attr name="line_default_color" format="color" />
+        <attr name="line_select_color" format="color" />
+        <attr name="line_error_color" format="color" />
+        <attr name="space" format="dimension" />
+        <attr name="text_size" format="dimension" />
+        <attr name="text_color" format="color" />
+    </declare-styleable>
+</resources>
